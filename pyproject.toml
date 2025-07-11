@@ -8,4 +8,5 @@ dependencies = [
     "jupyter>=1.1.1",
     "lab>=8.4",
     "pandas>=2.3.1",
+    "plotly[express]>=6.2.0",
 ]
